@@ -13,7 +13,7 @@ I'm always looking for new opportunities to learn and grow. Feel free to reach o
 ### 🔗 Connect with me:
 
 <a href="https://medium.com/@rajan.metaliya"><img src="assets/medium.svg" height="32"></a>
-<a href="https://github.com/Rajan-Metaliya"><img src="assets/github.svg" height="32"></a>
+<a href="https://github.com/Rajan-Metaliya"><img src="assets/github.png" height="32" width="32"></a>
 <a href="https://www.linkedin.com/in/rajan-metaliya-752087140/"><img src="assets/linkedin.svg" height="32"></a>
 <a href="https://x.com/Rj_7_7_7"><img src="assets/x-social-media.svg" height="32"></a>
 <a href="https://www.instagram.com/_rj777"><img src="assets/instagram.svg" height="32"></a>
