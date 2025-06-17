@@ -42,7 +42,7 @@
 
 ### 📈 GitHub Stats
 
-[![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajanmetaliya&show_icons=true&theme=radical)]
+[![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajanmagar&show_icons=true&theme=radical)]
 
 ---
 
