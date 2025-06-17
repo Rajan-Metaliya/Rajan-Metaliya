@@ -29,13 +29,6 @@
 
 ---
 
-### 💡 Ideas in Motion:
-> “Why just write your resume… when you can animate it?”  
-I'm building a **Flutter Web animated resume**, where I tell my dev story through scroll-based animations, micro-interactions, and joyfully nerdy visuals.  
-**Coming soon… 🎬**
-
----
-
 ### 🔗 Let’s Connect
 
 <a href="https://medium.com/@rajan.metaliya"><img src="assets/medium.svg" height="32"></a>
@@ -49,7 +42,7 @@ I'm building a **Flutter Web animated resume**, where I tell my dev story throug
 
 ### 📈 GitHub Stats
 
-[![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajanmagar&show_icons=true&theme=radical)]
+[![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajanmetaliya&show_icons=true&theme=radical)]
 
 ---
 
