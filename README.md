@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=500&size=32&duration=2000&pause=500&color=008080&vCenter=true&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Rajan)](https://git.io/typing-svg)
 
 ### 🚀 Full Stack Developer | Mobile & Backend Apps
 
