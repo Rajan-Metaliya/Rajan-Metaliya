@@ -1,33 +1,44 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=500&size=32&duration=2000&pause=500&color=008080&vCenter=true&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Rajan)](https://git.io/typing-svg)
 
-### 🚀 Flutter Developer | Builder of Smooth UIs & Serious Mobile Magic
+### 🚀 Full Stack Developer | Mobile & Backend Apps
 
-👨‍💻 **5+ years** building apps with **Flutter**, passionate about clean code, UI animations, and crafting seamless user experiences.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=2000\&pause=500\&color=00C9A7\&vCenter=true\&random=true\&width=600\&lines=Hey+%F0%9F%91%8B%2C+I'm+Rajan!)](https://git.io/typing-svg)
 
-🛠️ I work across the full stack — from front-end Flutter wizardry to **Firebase** (Auth, Firestore, Cloud Functions) and **Go-based backend services**.
 
-✨ Currently building:
-- An image-search powered app using **Gemini AI** 🤖
-- Flutter UI experiments with custom theming, Material 3, and dynamic extensions
-- CI/CD pipelines for iOS & Android releases — yes, those scary bits too
+### 👨‍💻 What I Do
 
-📦 I’ve worked with:
-- **VSCode**, **Sanity Studio + GROQ**, **Firebase Cloud Functions**
-- Clean architecture, platform channels, plugin building, and more
-
-📝 I also write regularly on **Medium** — Flutter tips, theming deep-dives, and development life.
-
-🧠 Love OSS, clean design, creative UI animations, and a well-timed `print()` debug.
+* Build mobile apps with **Flutter** that look sharp and run smoothly
+* Develop backends using **.NET**, **Java**, and cloud tools like **Firebase**, **GCP**, and **AWS**
+* Design and consume **REST APIs**
+* Contribute to **Open Source Projects** and share knowledge through **blogging**
 
 ---
 
-### 🛠️ Things I Use & Love
+### 🧠 Tech I Love Working With
 
-- 🐦 Flutter | 🔥 Firebase | ⚙️ GoLang | 🧠 Gemini AI
-- ✍️ Medium Blogging | 📦 Git & GitHub | ⚡ VSCode + Terminal Ninja
-- 🚀 CI/CD Pipelines for Mobile Apps (Fastlane, GitHub Actions)
+* 💙 Flutter
+* 🧱 .NET & Java
+* 🔥 Firebase & Firestore
+* ☁️ Google Cloud Platform & AWS
+* 🔗 REST API Design
+* 🤩 OSS (Open Source)
+* ✍️ Medium (Blogger)
 
 ---
+
+### ✨ Always Building & Learning
+
+* AI-powered apps with **Gemini AI**
+* Custom Flutter themes & animations
+* CI/CD pipelines for **Android & iOS** (Fastlane, GitHub Actions)
+* Full-stack projects with a clean code mindset
+
+---
+
+### 🔗 Let’s Connect
+
+<a href="https://medium.com/@rajan.metaliya"><img src="assets/medium.svg" height="32"></a> <a href="https://github.com/Rajan-Metaliya"><img src="assets/github.png" height="32" width="32"></a> <a href="https://www.linkedin.com/in/rajan-metaliya-752087140/"><img src="assets/linkedin.svg" height="32"></a> <a href="https://x.com/Rj_7_7_7"><img src="assets/x-social-media.svg" height="32"></a> <a href="https://www.instagram.com/_rj777"><img src="assets/instagram.svg" height="32"></a> <a href="https://www.reddit.com/user/Excellent_Ad4984/"><img src="assets/reddit.svg" height="32"></a>
+
 
 ### 🔗 Let’s Connect
 
